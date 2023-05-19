@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&family=Montserrat&display=swap');
+*{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    color: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 15px 100px;
+    background: #587453;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 99;
+}
+.navegation a {
+    position: relative;
+    font-size: 1.1em;
+    color: #fff;
+    text-decoration: none;
+    font-weight: 500;
+    margin-left: 40px;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 0 20px;
+}
+#banner{
+    width: 100%;
+}
+.logo{
+    font-family: 'Lora', serif;
+    font-size: 20px;
+    color: #fff;
+    user-select: none;
+}
+.container {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    color: black;
+    display: flex;
+    align-items: center;
+    margin: 20px;
+}
+.image1 {
+    width: 400px;
+    height: auto;
+    margin-right: 20px;
+}
+.image2 {
+    width: 400px;
+    height: auto;
+    margin-left: 20px;
+}
+.sobre{
+    margin-top: 140px;
+    margin-left: 130px;
+}
+.fotos{
+    margin-left: 85px;
+    padding-inline: 20px;
+}
+.projeto{
+    margin-top: 120px;
+    margin-left: 85px;
+}
+.txtlateral{
+    margin-left: 900px;
+    margin-top: 100px;
+}
+.panel{
+    left: 400px;
+    top: 420px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+    width: 342px;
+    height: 407px;
+    position: absolute;
+    background: #FFFFFF;
+    box-shadow: 1px 2px 5px 2px rgba(0, 0, 0, 0.25);
+    border-radius: 22px;
+}
+.button{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    padding: 10px 20px;
+    border-radius: 15px;
+    font-size: 20px;
+    border: 1px solid #587453;
+    background-color: transparent;
+    color: black;
+    cursor: pointer;
+    box-shadow: 4px 3px 7px 1px rgba(0, 0, 0, 0.25);
+}
+.button-enviar{
+    margin-top: 10px;
+    padding: 10px 20px;
+    border-radius: 30px;
+    font-size: 20px;
+    border: 1px solid #000000;
+    background-color: #587453; 
+    color: black;
+    cursor: pointer;
+    box-shadow: 4px 3px 7px 1px rgba(0, 0, 0, 0.25);
+}
+.intro{
+    position: absolute;
+    width: 471px;
+    height: 144px;
+    left: 123px;
+    top: 198px;
+}
