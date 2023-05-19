@@ -2,6 +2,12 @@
 
 Este repositório contém o código-fonte do site desenvolvido para o projeto Trashfree. O site tem como objetivo apresentar e divulgar as funcionalidades e benefícios do aplicativo Trashfree, uma solução inovadora para reduzir a poluição e o acúmulo de lixo.
 
+## Integrantes
+
+Guilherme Doretto Sobreiro RM:99674
+Matheus Xavier de Toledo
+Samyr Tatoni Kotait
+
 ## Visão geral
 
 O Trashfree é um projeto que visa enfrentar o desafio global da poluição e do lixo, fornecendo aos usuários uma maneira conveniente e sustentável de descartar seus resíduos. Através do nosso aplicativo, os usuários podem agendar a coleta de lixo com antecedência, permitindo que seja feita de forma eficiente, reduzindo as emissões de CO2 e otimizando o uso de combustível.
