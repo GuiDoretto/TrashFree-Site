@@ -4,9 +4,9 @@ Este repositório contém o código-fonte do site desenvolvido para o projeto Tr
 
 ## Integrantes
 
-Guilherme Doretto Sobreiro RM:99674
-Matheus Xavier de Toledo
-Samyr Tatoni Kotait
+- Guilherme Doretto Sobreiro RM:99674
+- Matheus Xavier de Toledo
+- Samyr Tatoni Kotait
 
 ## Visão geral
 
