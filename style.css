@@ -116,10 +116,85 @@ nav a {
     cursor: pointer;
     box-shadow: 4px 3px 7px 1px rgba(0, 0, 0, 0.25);
 }
-.intro{
+#intro{
     position: absolute;
+    font-size: 64px;
     width: 471px;
     height: 144px;
     left: 123px;
     top: 198px;
 }
+#subintro{
+    position: absolute;
+    font-size: 28px;
+    width: 471px;
+    height: 144px;
+    left: 123px;
+    top: 370px;
+}
+.form-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-bottom: 10px;
+}
+
+#informacao {
+    width: 210px;
+    margin-bottom: 10px;
+}
+button[type="submit"] {
+    margin-left: 0px;
+}
+#email {
+    margin-right: 5px;
+}
+
+#celular {
+    margin-right: 5px;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.container1 {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    height: 1130px;
+    padding-left: 120px;
+}
+#img2{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 900px;
+    top: 120px;
+}
+#download{
+    position: absolute;
+    width: 500px;
+    height: 20px;
+    left: 120px;
+    top: 650px; 
+}
+#app-store{
+    position: absolute;
+    width: 500px;
+    height: 20px;
+    left: 70px;
+    top: 716px; 
+}
+#play-store{
+    position: absolute;
+    width: 500px;
+    height: 20px;
+    left: 340px;
+    top: 700px; 
+}
+.button.selecionado {
+    background-color: #587453;
+  }
